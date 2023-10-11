@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 💙Laura
 <!--
 **Laura609/Laura609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Laura609&theme=transparent)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laura609&show_icons=true&theme=transparent)
